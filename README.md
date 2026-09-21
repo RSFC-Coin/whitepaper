@@ -1,6 +1,15 @@
 # RFSC Coin
 
 <p align="center">
+    <br>
+  <a href="https://rfsc-project.vercel.app" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RSFC-Coin/whitepaper/414338dcaa924a2f21ce52256c916aabe8d34a17/thumbnail.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RSFC-Coin/whitepaper/414338dcaa924a2f21ce52256c916aabe8d34a17/thumbnail.png">
+      <img alt="rfsc logo" src="https://raw.githubusercontent.com/RSFC-Coin/whitepaper/414338dcaa924a2f21ce52256c916aabe8d34a17/thumbnail.png" height="100">
+    </picture>
+  </a>
+  <br>
   <img src="https://img.shields.io/badge/RFSC-Cryptocurrency-2563EB?style=for-the-badge" alt="RFSC">
   <img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/License-TBD-lightgrey?style=for-the-badge" alt="License">
